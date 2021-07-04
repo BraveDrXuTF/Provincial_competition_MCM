@@ -1,0 +1,2 @@
+# Provincial_competition_MCM
+这是2020年11月辽宁省数学建模竞赛我们队的代码，由我负责算法及实现
